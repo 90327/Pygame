@@ -1,2 +1,3 @@
 # Pygame
 基于python编程下pygame库的项目开发
+耗时一周编写的python飞机大战小游戏
